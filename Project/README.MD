@@ -29,7 +29,7 @@ As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner
 
 ![Coding](https://github.com/Vishan14/A.I-Project/blob/main/Project/handwriting.png)
 
-Figure 1 shows a handwritten cheque and an AI output of recognition the handwritting in the cheque .
+Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition from the cheque.
 
 
 ## C.  DATASET
