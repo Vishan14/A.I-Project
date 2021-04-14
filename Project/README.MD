@@ -5,10 +5,10 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- Vishan Menan A/L Balakrishnan
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Vishan Menan A/L Balakrishnan **(B031910018)**
+- Cecilia Chong Ching Nee **(B031910390)**
+- Siew Chung Seng **(B031910342)**
+- Muhammad Putra Alif bin Ismail **(B031910115)**
 
 
 - [ ] **Objectives:**
@@ -28,7 +28,8 @@ As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner
 
 
 ![Coding](https://github.com/Vishan14/A.I-Project/blob/main/Project/handwriting.png)
-Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
+
+Figure 1 shows a handwritten cheque and an AI output of recognition the handwritting in the cheque .
 
 
 ## C.  DATASET
