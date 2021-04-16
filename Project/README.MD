@@ -92,6 +92,20 @@ The use case view models functionality of the system as perceived by outside use
 
 ![Figure 4](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
 
+-Sequence Diagram
+
+![Figure 5](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+
+**FUNCTIONAL MODEL**
+
+-Data Flow Diagram
+
+![Figure 6](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+
+-Control Flow Diagram
+
+![Figure 7](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+
 
 
 The following directory is our structure of our project:
