@@ -102,9 +102,11 @@ The use case view models functionality of the system as perceived by outside use
 
 ![Figure 6](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
 
+![Figure 7](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+
 -Control Flow Diagram
 
-![Figure 7](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+![Figure 8](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
 
 
 
