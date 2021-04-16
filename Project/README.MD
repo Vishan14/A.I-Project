@@ -174,7 +174,7 @@ You can then launch the mask detector in real-time video streams using the follo
 - INFO] loading face mask detector model...
 - [INFO] starting video stream...
 
-[![Figure5](https://img.youtube.com/vi/PO4hePKWIGQ/0.jpg)](https://www.youtube.com/watch?v=PO4hePKWIGQ "Figure5")
+[![Figure9](https://img.youtube.com/vi/PO4hePKWIGQ/0.jpg)](https://www.youtube.com/watch?v=PO4hePKWIGQ "Figure9")
 
 Figure 5: Handwriting recognition sample
 
