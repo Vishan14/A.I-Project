@@ -28,6 +28,8 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
+[![Figure2](https://img.youtube.com/vi/PO4hePKWIGQ/0.jpg)](http://www.iapr-tc11.org/mediawiki/index.php?title=IAM_Online_Document_Database_(IAMonDo-database) "Figure2")
+
 In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
 
 From there, we’ll review the dataset we’ll be using to train our custom face mask detector.
