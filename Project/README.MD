@@ -12,10 +12,9 @@
 
 
 - [ ] **Objectives:**
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- Reduce man-power in converting old literature into digitized form manually.
+- Work and serve as guide in character recognition areas.
+- Use Neural signs in literature domain.
 
 
 ##  B. ABSTRACT 
