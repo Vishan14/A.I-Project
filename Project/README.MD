@@ -1,8 +1,8 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# HANDWRITTEN TEXT RECOGNITION 
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Handwritten Text Recognition
 
 **Team Members:** 
 - Vishan Menan A/L Balakrishnan **(B031910018)**
@@ -19,7 +19,7 @@
 
 ##  B. ABSTRACT 
 
-Handwriting recognition is the ability of a machine to receive and interpret handwrit- ten input from multiple sources like paper documents, photographs, touch screen devices etc. Recognition of handwritten and machine characters is an emerging area of research and finds extensive applications in banks, offices and industries.The main aim of this project is to design expert system for , “HCR using Neural Network”that can effectivelly recognize a particular character of type format using the Artificial Neural Network approach.  Neural computing Is comparatively new field, and design components are therefore less well specified than those of other architectures. Neural computers implement data par- allelism. Neural computer are operated in way which is completely different from the oper- ation of normal computers. Neural computer are trained (not Programmed) so that given a certain starting state (data input); they either classify the input data into one of the number of classes or cause the original data to evolve in such a way that a certain desirable property is optimized. 
+Handwriting recognition is the ability of a machine to receive and interpret handwritten input from multiple sources like paper documents, photographs, touch screen devices etc. Recognition of handwritten and machine characters is an emerging area of research and finds extensive applications in banks, offices and industries. The main aim of this project is to design expert system for, “HCR using Neural Network” that can effectivelly recognize a particular character of type format using the Artificial Neural Network approach.  Neural computing Is comparatively new field, and design components are therefore less well specified than those of other architectures. Neural computers implement data parallelism. Neural computer are operated in way which is completely different from the oper- ation of normal computers. Neural computer are trained (not Programmed) so that given a certain starting state (data input); they either classify the input data into one of the number of classes or cause the original data to evolve in such a way that a certain desirable property is optimized. 
 
 ![Coding](https://github.com/Vishan14/A.I-Project/blob/main/Project/handwriting.png)
 
