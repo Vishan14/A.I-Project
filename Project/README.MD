@@ -28,7 +28,7 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
-[![Figure2](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.pyimagesearch.com%2Fwp-content%2Fuploads%2F2020%2F08%2Focr_handwriting_reco_header.png&imgrefurl=https%3A%2F%2Fwww.pyimagesearch.com%2F2020%2F08%2F24%2Focr-handwriting-recognition-with-opencv-keras-and-tensorflow%2F&tbnid=8xjQbgJ-5GzEZM&vet=12ahUKEwinofGv94LwAhVck0sFHTlIAV8QMygGegUIARDBAQ..i&docid=HSBRr23C93XXOM&w=700&h=450&q=handwritten%20text%20recognition%20examples&ved=2ahUKEwinofGv94LwAhVck0sFHTlIAV8QMygGegUIARDBAQ/0.jpg)](http://www.iapr-tc11.org/mediawiki/index.php?title=IAM_Online_Document_Database_(IAMonDo-database) "Figure2")
+[![Figure2](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.pyimagesearch.com%2Fwp-content%2Fuploads%2F2020%2F08%2Focr_handwriting_reco_header.png&imgrefurl=https%3A%2F%2Fwww.pyimagesearch.com%2F2020%2F08%2F24%2Focr-handwriting-recognition-with-opencv-keras-and-tensorflow%2F&tbnid=8xjQbgJ-5GzEZM&vet=12ahUKEwinofGv94LwAhVck0sFHTlIAV8QMygGegUIARDBAQ..i&docid=HSBRr23C93XXOM&w=700&h=450&q=handwritten%20text%20recognition%20examples&ved=2ahUKEwinofGv94LwAhVck0sFHTlIAV8QMygGegUIARDBAQ)](http://www.iapr-tc11.org/mediawiki/index.php?title=IAM_Online_Document_Database_(IAMonDo-database) "Figure2")
 
 In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
 
