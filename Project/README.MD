@@ -92,15 +92,15 @@ The use case view models functionality of the system as perceived by outside use
 
 ## E   TRAINING THE COVID-19 FACE MASK DETECTION
 
-We are now ready to train our face mask detector using Keras, TensorFlow, and Deep Learning.
+We are now ready to train our handwritten text rocognizer using Keras, TensorFlow, and Deep Learning.
 
 From there, open up a terminal, and execute the following command:
 
-- $ python train_mask_detector.py --dataset dataset
+- $ python train_handwritten_text_recognizer.py --dataset dataset
 - [INFO] loading images...
 - [INFO] compiling model...
 - [INFO] training head...
-- Train for 34 steps, validate on 276 samples
+- Train for 34 steps, validate on 414 samples
 - Epoch 1/20
 - 34/34 [==============================] - 30s 885ms/step - loss: 0.6431 - accuracy: 0.6676 - val_loss: 0.3696 - val_accuracy: 0.8242
 - Epoch 2/20
@@ -127,20 +127,14 @@ From there, open up a terminal, and execute the following command:
 |      |    precision    | recall| f1-score | support |
 |------|-----------------|-------|----------|---------|
 |Englis text|0.99|1.00|0.99|138|
-|Chinese Char|0.98|1.00|0.98|138|
-|Mathematical expression|0.99|1.00|0.99|138|
-|accuracy| | |0.99|276|
+|Chinese Char|0.98|1.00|0.97|138|
+|Mathematical expression|0.98|1.00|0.99|138|
+|accuracy| | |0.98|414|
 
 
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
 
-Figure 4: Figure 10: COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data
 
-As you can see, we are obtaining ~99% accuracy on our test set.
-
-Looking at Figure 4, we can see there are little signs of overfitting, with the validation loss lower than the training loss. 
-
-Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
+Given these results, we hope our model will generalize well to images outside our training and testing set as well.
 
 
 ## F.  RESULT AND CONCLUSION
