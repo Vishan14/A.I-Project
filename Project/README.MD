@@ -48,31 +48,18 @@ In order to train a custom handwritten text recognizer, we need to break our pro
 - Deployment: Once the handwritten text rocognizer is trained, we can then move on to perform handwritten text recognition.
 
 
+ 
 
+The dataset we’ll be using is taken from LionbridgeAI, an article by Meiryum Ali
 
+This datasets contains about of 370,000 sample images belonging to following classes:
 
-Our COVID-19 face mask detection dataset as shown in Figure 3:
+- English texts
+- Mathematical expressions
+- Chinese characters
 
-![Figure 3](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+Our goal is to train a custom deep learning model to recognize human handwrittings in documents such as bank cheques.
 
-Figure 3: A face mask detection dataset consists of “with mask” and “without mask” images. 
-
-The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
-
-This dataset consists of 1,376 images belonging to two classes:
-
-- with_mask: 690 images
-- without_mask: 686 images
-
-Our goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask.
-
-How was our face mask dataset created?
-Prajna, like me, has been feeling down and depressed about the state of the world — thousands of people are dying each day, and for many of us, there is very little (if anything) we can do.
-
-To help keep her spirits up, Prajna decided to distract herself by applying computer vision and deep learning to solve a real-world problem:
-
-- Best case scenario — she could use her project to help others
-- Worst case scenario — it gave her a much needed mental escape
 
 
 ## D.   ANALYSIS MODEL
