@@ -157,6 +157,7 @@ To create our text recognizer, we trained a model of multiple classes such as En
 
 [![demo](https://img.youtube.com/vi/YfDMdMnvaQ4/0.jpg)](https://www.youtube.com/watch?v=YfDMdMnvaQ4 "demo")
 
+Video : Demo video of text recognition
 
 
 
