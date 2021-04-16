@@ -56,7 +56,7 @@ This datasets contains about of 370,000 sample images belonging to following cla
 
 - English texts
 - Mathematical expressions
-- Chinese characters
+- Mandarin characters
 
 Our goal is to train a custom deep learning model to recognize human handwrittings in documents such as bank cheques.
 
@@ -127,7 +127,7 @@ From there, open up a terminal, and execute the following command:
 |      |    precision    | recall| f1-score | support |
 |------|-----------------|-------|----------|---------|
 |Englis text|0.99|1.00|0.99|138|
-|Chinese Char|0.98|1.00|0.97|138|
+|Mandarin Char|0.98|1.00|0.97|138|
 |Mathematical expression|0.98|1.00|0.99|138|
 |accuracy| | |0.98|414|
 
@@ -139,37 +139,21 @@ Given these results, we hope our model will generalize well to images outside ou
 
 ## F.  RESULT AND CONCLUSION
 
-Detecting COVID-19 face masks with OpenCV in real-time
-
-You can then launch the mask detector in real-time video streams using the following command:
-- $ python detect_mask_video.py
-- [INFO] loading face detector model...
-- INFO] loading face mask detector model...
-- [INFO] starting video stream...
+You can now launch the text recognizer in real-time using the following command:
+- $ python handwritten_text_recognizer.py
 
 [![Figure9](https://img.youtube.com/vi/PO4hePKWIGQ/0.jpg)](https://www.youtube.com/watch?v=PO4hePKWIGQ "Figure9")
 
-Figure 5: Handwriting recognition sample
-
-In Figure 5, you can see that our face mask detector is capable of running in real-time (and is correct in its predictions as well.
+Figure 5: Handwritten text recognition sample
 
 
 
 ## G.   PROJECT PRESENTATION 
 
-In this project, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
+In this project, you learned how to create a handwritten text recognizer using Keras/TensorFlow, and Deep Learning.
 
-To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
+To create our text recognizer, we trained a model of multiple classes such as English texts, Mandarin characters and Mathemathical expressions.
 
-We fine-tuned MobileNetV2 on our mask/no mask dataset and obtained a classifier that is ~99% accurate.
-
-We then took this face mask classifier and applied it to both images and real-time video streams by:
-
-- Detecting faces in images/video
-- Extracting each individual face
-- Applying our face mask classifier
-
-Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
 [![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
 
