@@ -89,7 +89,8 @@ To help keep her spirits up, Prajna decided to distract herself by applying comp
 -Use Case Diagram
 
 The use case view models functionality of the system as perceived by outside uses. A use case is a coherent unit of functionality expressed as a transaction among actors and the system.
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+
+![Figure 4](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
 
 
 
