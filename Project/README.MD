@@ -94,7 +94,7 @@ The use case view models functionality of the system as perceived by outside use
 
 -Sequence Diagram
 
-![Figure 5](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.1.JPG)
+![Figure 5](https://github.com/Vishan14/A.I-Project/blob/main/Project/Figure%204.2.JPG)
 
 **FUNCTIONAL MODEL**
 
