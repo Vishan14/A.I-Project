@@ -36,21 +36,19 @@ I’ll then show you how to implement a Python script to train a handwritten tex
 
 We’ll use this Python script to train a handwritten text recognizer and review the results.
 
+![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/Dataset-figure-01.jfif)
+
+Figure 2: Handwritten text recognizer on our dataset using Keras and TensorFlow 
+
+
+In order to train a custom handwritten text recognizer, we need to break our project into two distinct phases, each with its own respective sub-steps :
+
+- Training: We’ll focus on loading our handwritten text recognition dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing it to disk.
+
+- Deployment: Once the handwritten text rocognizer is trained, we can then move on to perform handwritten text recognition.
 
 
 
-There is two-phase COVID-19 face mask detector as shown in Figure 2:
-
-![Figure 2](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png)
-Figure 2: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning 
-
-In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
-
-- Training: Here we’ll focus on loading our face mask detection dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing the face mask detector to disk
-
-- Deployment: Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with_mask or without_mask
-
-We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our COVID-19 face mask detector.
 
 
 Our COVID-19 face mask detection dataset as shown in Figure 3:
