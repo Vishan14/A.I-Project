@@ -126,11 +126,10 @@ From there, open up a terminal, and execute the following command:
 
 |      |    precision    | recall| f1-score | support |
 |------|-----------------|-------|----------|---------|
-|with_mask|0.99|1.00|0.99|138|
-|without_mask|1.00|0.99|0.99|138|
+|Englis text|0.99|1.00|0.99|138|
+|Chinese Char|0.98|1.00|0.98|138|
+|Mathematical expression|0.99|1.00|0.99|138|
 |accuracy| | |0.99|276|
-|macro avg|0.99|0.99|0.99|276|
-|weighted avg|0.99|0.99|0.99|276|
 
 
 ![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
