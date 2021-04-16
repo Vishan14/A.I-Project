@@ -82,7 +82,16 @@ To help keep her spirits up, Prajna decided to distract herself by applying comp
 - Worst case scenario — it gave her a much needed mental escape
 
 
-## D.   PROJECT STRUCTURE
+## D.   ANALYSIS MODEL
+
+**BEHAVIORAL MODEL**
+
+-Use Case Diagram
+
+The use case view models functionality of the system as perceived by outside uses. A use case is a coherent unit of functionality expressed as a transaction among actors and the system.
+![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_dataset.jpg)
+
+
 
 The following directory is our structure of our project:
 - $ tree --dirsfirst --filelimit 10
