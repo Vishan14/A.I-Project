@@ -155,7 +155,7 @@ In this project, you learned how to create a handwritten text recognizer using K
 To create our text recognizer, we trained a model of multiple classes such as English texts, Mandarin characters and Mathemathical expressions.
 
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+[![demo](https://img.youtube.com/vi/-YfDMdMnvaQ4&t=2s/0.jpg)](https://www.youtube.com/watch?v=YfDMdMnvaQ4&t=2s "demo")
 
 
 
