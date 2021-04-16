@@ -28,22 +28,15 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
-[![Figure2](http://www.iapr-tc11.org/mediawiki/index.php?title=IAM_Online_Document_Database_(IAMonDo-database) "Figure2")
+For the purpose of this project, we are using datasets from existing online resources.  
 
-In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
+We’ll review the dataset we’ll be using to train our custom handwritten text recognizer.
 
-From there, we’ll review the dataset we’ll be using to train our custom face mask detector.
+I’ll then show you how to implement a Python script to train a handwritten text recognizer on our dataset using Keras and TensorFlow.
 
-I’ll then show you how to implement a Python script to train a face mask detector on our dataset using Keras and TensorFlow.
+We’ll use this Python script to train a handwritten text recognizer and review the results.
 
-We’ll use this Python script to train a face mask detector and review the results.
 
-Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
-
-- Detect COVID-19 face masks in images
-- Detect face masks in real-time video streams
-
-We’ll wrap up the post by looking at the results of applying our face mask detector.
 
 
 There is two-phase COVID-19 face mask detector as shown in Figure 2:
