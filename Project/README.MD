@@ -28,9 +28,9 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
-For the purpose of this AI Project, we are using datasets that we created and also from existing online resources. 
+For the purpose of this AI Project, we are using datasets that we created and also from existing online resources.\
 
-We’ll review the dataset we’ll be using to train our custom handwritten character recognizer.
+We’ll review the dataset we’ll be using to train our custom handwritten character recognizer.\
 
 We’ll use Python script to train handwritten character recognizer and review the results.
 
