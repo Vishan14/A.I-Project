@@ -52,8 +52,10 @@ Figure shows sample of handwritten character recognition dataset which consists 
 
 The dataset contains handwritten English Character images.
 
+
 It consists of over 4, 400 handwritten English Character images 
 which includes our own dataset and also existing online dataset.
+
 
 Our goal is to train a model to help children in recognizing 
 English Characters once after a character is written by them 
