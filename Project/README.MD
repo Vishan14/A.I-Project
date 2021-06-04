@@ -28,13 +28,22 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
-For the purpose of this project, we are using datasets from existing online resources.  
+For the purpose of this AI Project, we are using datasets that we created and also from existing online resources. 
 
-We’ll review the dataset we’ll be using to train our custom handwritten text recognizer.
+We’ll review the dataset we’ll be using to train our custom handwritten character recognizer.
 
-I’ll then show you how to implement a Python script to train a handwritten text recognizer on our dataset using Keras and TensorFlow.
+We’ll use Python script to train handwritten character recognizer and review the results.
 
-We’ll use this Python script to train a handwritten text recognizer and review the results.
+We created this handwritten character recognizer specially to recognize English capital alphabets which is from A-Z.
+
+This interesting model is created and trained using these libraries: Keras, Numpy, Tensorflow, Pandas.
+
+Briefly, the steps to train this handwritten character recognizer were as such: -
+•	Our own dataset was created. 
+•	Our own dataset and existing online dataset were loaded. 
+•	Trained the model on these datasets.
+
+Our Handwritten Character Recognition dataset sample are as follow: -
 
 ![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/Dataset-figure-01.jfif)
 
