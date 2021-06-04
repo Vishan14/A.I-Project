@@ -47,27 +47,18 @@ Our Handwritten Character Recognition dataset sample are as follow: -
 
 ![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/dataset.png)
 
-Figure 2: Handwritten text recognizer on our dataset using Keras and TensorFlow 
+Figure shows sample of handwritten character recognition dataset which consists of handwritten English character images.
 
 
-In order to train a custom handwritten text recognizer, we need to break our project into two distinct phases, each with its own respective sub-steps :
+The dataset contains handwritten English Character images.
 
-- Training: We’ll focus on loading our handwritten text recognition dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing it to disk.
+It consists of over 4, 400 handwritten English Character images 
+which includes our own dataset and also existing online dataset.
 
-- Deployment: Once the handwritten text rocognizer is trained, we can then move on to perform handwritten text recognition.
+Our goal is to train a model to help children in recognizing 
+English Characters once after a character is written by them 
+in the space provided.
 
-
- 
-
-The dataset we’ll be using is taken from LionbridgeAI, an article by Meiryum Ali
-
-This datasets contains about of 370,000 sample images belonging to following classes:
-
-- English texts
-- Mathematical expressions
-- Mandarin characters
-
-Our goal is to train a custom deep learning model to recognize human handwrittings in documents such as bank cheques.
 
 
 
