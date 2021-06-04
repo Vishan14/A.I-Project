@@ -28,38 +28,38 @@ Figure 1 shows a handwritten cheque and AI outputs of handwritting recognition f
 
 ## C.  DATASET
 
-For the purpose of this AI Project, we are using datasets that we created and also from existing online resources.\
+For the purpose of this AI Project, we are using datasets that we created and also from existing online resources.<br>
 
-We’ll review the dataset we’ll be using to train our custom handwritten character recognizer.\
+We’ll review the dataset we’ll be using to train our custom handwritten character recognizer.
 
 We’ll use Python script to train handwritten character recognizer and review the results.
 
 We created this handwritten character recognizer specially to recognize English capital alphabets which is from A-Z.
 
-This interesting model is created and trained using these libraries: Keras, Numpy, Tensorflow, Pandas.
+This interesting model is created and trained using these libraries: Keras, Numpy, Tensorflow, Pandas.<br>
 
 Briefly, the steps to train this handwritten character recognizer were as such: -
 •	Our own dataset was created. 
 •	Our own dataset and existing online dataset were loaded. 
-•	Trained the model on these datasets.
+•	Trained the model on these datasets.<br>
 
 Our Handwritten Character Recognition dataset sample are as follow: -
 
 ![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/dataset.png)
 
-Figure shows sample of handwritten character recognition dataset which consists of handwritten English character images.
+Figure shows sample of handwritten character recognition dataset which consists of handwritten English character images.<br>
 
 
-The dataset contains handwritten English Character images.
+The dataset contains handwritten English Character images.<br><br>
 
 
 It consists of over 4, 400 handwritten English Character images 
-which includes our own dataset and also existing online dataset.
+which includes our own dataset and also existing online dataset.<br><br>
 
 
 Our goal is to train a model to help children in recognizing 
 English Characters once after a character is written by them 
-in the space provided.
+in the space provided.<br><br>
 
 
 
