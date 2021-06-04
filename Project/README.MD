@@ -47,7 +47,7 @@ Our Handwritten Character Recognition dataset sample are as follow: -
 
 ![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/dataset.png)
 
-Figure shows sample of handwritten character recognition dataset which consists of handwritten English character images.<br>
+Figure shows sample of handwritten character recognition dataset which consists of handwritten English character images.<br><br>
 
 
 The dataset contains handwritten English Character images.<br><br>
