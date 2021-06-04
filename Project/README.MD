@@ -45,7 +45,7 @@ Briefly, the steps to train this handwritten character recognizer were as such: 
 
 Our Handwritten Character Recognition dataset sample are as follow: -
 
-![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/Dataset-figure-01.jfif)
+![Figure 2](https://github.com/Vishan14/A.I-Project/blob/main/Project/dataset.png)
 
 Figure 2: Handwritten text recognizer on our dataset using Keras and TensorFlow 
 
