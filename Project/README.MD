@@ -39,9 +39,9 @@ We created this handwritten character recognizer specially to recognize English 
 This interesting model is created and trained using these libraries: Keras, Numpy, Tensorflow, Pandas.<br><br>
 
 Briefly, the steps to train this handwritten character recognizer were as such: -
-•	Our own dataset was created. 
-•	Our own dataset and existing online dataset were loaded. 
-•	Trained the model on these datasets.<br><br>
+-	Our own dataset was created. 
+-	Our own dataset and existing online dataset were loaded. 
+-	Trained the model on these datasets.<br><br>
 
 Our Handwritten Character Recognition dataset sample are as follow: -
 
